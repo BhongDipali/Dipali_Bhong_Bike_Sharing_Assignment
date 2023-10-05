@@ -1,7 +1,7 @@
 # Bike_Sharing_Assignment
 
 Dataset characteristics
-	
+
 day.csv have the following fields:
 	
 	- instant: record index
